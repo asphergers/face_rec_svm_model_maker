@@ -2,7 +2,8 @@
 I learned to do this from an [article](https://machinelearningmastery.com/how-to-develop-a-face-recognition-system-using-facenet-in-keras-and-an-svm-classifier/) on machinelearningmastery.com. They're an amazing resource for everything machine learning and most of what I know came from them.  <br />
 <br />
 These scripts were made and tested using python 3.7 so success may vary when using other versions of python.
-<br />
+<br /> <br />
+I don't plan on updating this repo at all unless I find any major bugs with the scripts while using them.
 
 # Instructions for use <br />
 ## Collecting faces <br />
